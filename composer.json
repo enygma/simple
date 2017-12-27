@@ -1,0 +1,10 @@
+{
+    "name": "enygma/simple",
+    "authors": [
+        {
+            "name": "Chris Cornutt",
+            "email": "enygma@phpdeveloper.org"
+        }
+    ],
+    "require": {}
+}
